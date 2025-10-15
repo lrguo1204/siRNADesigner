@@ -8,3 +8,4 @@ Gene Name
 
 4.Off-Target Effect Analysis
 
+<img width="526" height="813" alt="image" src="https://github.com/user-attachments/assets/2c0206f7-83c8-46be-a58b-68afda914d29" />
